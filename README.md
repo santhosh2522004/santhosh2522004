@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Santhosh Kumar 👋
 
-<!--
-**santhosh2522004/santhosh2522004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Interested in Full-Stack Web Development, Cloud Computing, Generative AI, Cybersecurity and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Java
+- Python
+- HTML, CSS, JavaScript
+- Full-Stack Web Development
+- AWS
+- Microsoft Azure
+- Oracle Cloud Infrastructure
+- Android Development
+- Generative AI
+- Data Science
+- Machine Learning
+- Cybersecurity
+
+## 🚀 Projects
+
+### Farmers Application
+
+An Android-based application developed during my Android Development internship to support farmers.
+
+## ☁️ Cloud Technologies
+
+- AWS
+- Microsoft Azure
+- Oracle Cloud Infrastructure
+
+## 🤖 AI & Data
+
+- Generative AI
+- Machine Learning
+- Data Science
+
+## 🔐 Cybersecurity
+
+- Cybersecurity Fundamentals
+- Security Awareness
+- Basic Network Security
+
+## 📜 Certifications
+
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+- Generative AI in Action – IBM SkillsBuild
